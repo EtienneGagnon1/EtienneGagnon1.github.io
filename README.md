@@ -1,4 +1,4 @@
-# Welcome to my GitHub Pages site
+# Etienne Gagnon
 
 Welcome! I am a Ph.D. Student in Politics at Princeton University. 
 

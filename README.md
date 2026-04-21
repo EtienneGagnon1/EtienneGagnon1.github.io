@@ -7,7 +7,3 @@ I conduct research in Political Economy and Comparative Politics, with a focus o
 My main methodological interest lies in structural estimation and applications of models of Urban and Regional Economics to Political Science. At Princeton, I have served as a teaching assistant in Political Economy classes, witha focus on formal modelling. 
 
 Before Princeton, I completed a Master's degree in Interdisciplinary Information Sciences at the University of Tokyo under the Japanese Ministry of Education, Culture, Sports, Science and Technology (MEXT)'s scholarship program. Prior to this I was a Master's student in Political Science at McGill University. I received my Bachelor's Degree in Political Science from the University of Montreal. 
-
-## About
-
-This site is powered by [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
